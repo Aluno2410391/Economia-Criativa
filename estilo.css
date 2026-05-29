@@ -1,0 +1,14 @@
+.verde{
+    color: green;
+}
+
+h1{
+    text-align: center;
+}
+
+.tabela{
+    display: flex;
+    align-items: center;
+    width: 300px;
+    margin-right: 10px;
+}
